@@ -20,7 +20,7 @@ JSON server:
 npm install -g json-server
 Levantar servidor JSON en la ruta ~src\assets\data
 
-json-server --watch profesores.json --host 0.0.0.0 --port 3300
+json-server --watch animalitos.json --host 0.0.0.0 --port 3300
 
 Instalar BarcoDeScanner
 npm install --save @ionic-native/barcode-scanner
